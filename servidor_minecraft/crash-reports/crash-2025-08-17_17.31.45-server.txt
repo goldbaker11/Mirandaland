@@ -1,0 +1,64 @@
+---- Minecraft Crash Report ----
+// On the bright side, I bought you a teddy bear!
+
+Time: 8/17/25 5:31 PM
+Description: Exception in server tick loop
+
+Missing Mods:
+	unknown : need [1.7,): have missing
+
+Missing Mods:
+	unknown : need [1.7,): have missing
+
+net.minecraftforge.fml.common.MultipleModsErrored
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:300)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:572)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:750)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 6.8.0-1030-azure
+	Java Version: 1.8.0_462, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 2575783728 bytes (2456 MB) / 2711617536 bytes (2586 MB) up to 5726797824 bytes (5461 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx6G
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 20 mods loaded, 20 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                      | Version           | Source                              | Signature                                |
+	|:----- |:----------------------- |:----------------- |:----------------------------------- |:---------------------------------------- |
+	| L     | minecraft               | 1.12.2            | minecraft.jar                       | None                                     |
+	| L     | mcp                     | 9.42              | minecraft.jar                       | None                                     |
+	| L     | FML                     | 8.0.99.99         | forge-1.12.2-14.23.5.2860.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| L     | forge                   | 14.23.5.2860      | forge-1.12.2-14.23.5.2860.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| L     | clib                    | 1.0.2.31          | CLib-1.0.2.31-universal.jar         | None                                     |
+	| L     | coolcapybaras           | 1.0.0             | cool_capybaras.jar                  | None                                     |
+	| L     | doggytalents            | 1.15.1.6          | DoggyTalents-1.12.2-1.15.1.6.jar    | None                                     |
+	| L     | eyesinthedarkness       | 0.1.0             | EyesInTheDarkness-0.1.0.jar         | None                                     |
+	| L     | falling_tree            | 2.4.0             | FallingTree-1.12.2-2.4.0.jar        | None                                     |
+	| L     | gravestone              | 1.10.3            | gravestone-1.10.3.jar               | None                                     |
+	| L     | ironchest               | 1.12.2-7.0.67.844 | ironchest_1.12.2_7.0.72.847.jar     | None                                     |
+	| L     | ironfurnaces            | 1.3.5             | ironfurnaces-1.3.5.jar              | None                                     |
+	| L     | jei                     | 4.16.1.1013       | jei_1.12.2-4.16.1.1013.jar          | None                                     |
+	| L     | mantle                  | 1.12-1.3.3.55     | Mantle-1.12-1.3.3.55.jar            | None                                     |
+	| L     | pizzacraft              | 2.0.19            | PizzaCraft-1.12.2-2.0.19.jar        | None                                     |
+	| L     | projecte                | 1.12.2-PE1.4.1    | ProjectE-1.12.2-PE1.4.1.jar         | None                                     |
+	| L     | tconstruct              | 1.12.2-2.13.0.183 | TConstruct-1.12.2-2.13.0.183.jar    | None                                     |
+	| L     | teslacorelib            | 1.0.18            | tesla-core-lib-1.12.2-1.0.18.jar    | None                                     |
+	| L     | teslacorelib_registries | 1.0.18            | tesla-core-lib-1.12.2-1.0.18.jar    | None                                     |
+	| L     | travelersbackpack       | 1.0.35            | TravelersBackpack-1.12.2-1.0.35.jar | None                                     |
+
+	Loaded coremods (and transformers): 
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
