@@ -1272,3 +1272,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 [02:27:49] [Server thread/INFO] [Mekanism]: Sent config to 'goldbaker11.'
 [02:32:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 has made the advancement [Sweet dreams]
 [02:46:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: goldbaker11 moved too quickly! 10.14031946920008,-0.7500687430237463,-2.4720133398921007
+[03:05:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: goldbaker11 lost connection: Timed out
+[03:05:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 left the game
