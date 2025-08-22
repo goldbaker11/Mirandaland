@@ -1281,3 +1281,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 [04:39:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: goldbaker11[/172.28.55.209:63780] logged in with entity id 55669 at (-49.69999998807907, 64.0, 1172.699999988079)
 [04:39:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 joined the game
 [04:39:47] [Server thread/INFO] [Mekanism]: Sent config to 'goldbaker11.'
+[04:46:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 has made the advancement [Acquire Hardware]
