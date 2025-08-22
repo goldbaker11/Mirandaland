@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-22 05:24:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-21 14:48:32 +0000"
@@ -266,6 +272,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2025-08-22 02:47:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-08-22 05:24:43 +0000"
     },
     "done": true
   },
@@ -491,6 +503,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-22 05:24:43 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
       "entered_water": "2025-08-22 02:17:27 +0000"
@@ -500,6 +518,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-08-22 02:18:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/jacaranda_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-08-22 05:24:43 +0000"
     },
     "done": true
   },
@@ -586,6 +610,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/jacaranda_planks": {
+    "criteria": {
+      "has_log": "2025-08-22 05:24:40 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/brown_dye_from_cattail": {
     "criteria": {
       "has_flower": "2025-08-22 02:26:10 +0000"
@@ -665,6 +695,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-08-21 14:49:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-08-22 05:24:43 +0000"
     },
     "done": true
   },
