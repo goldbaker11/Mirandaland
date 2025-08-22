@@ -1,176 +1,176 @@
-[02:11:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[02:11:00] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[02:11:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[02:11:01] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[02:11:01] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_462, running on Linux:amd64:6.8.0-1030-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[02:11:02] [main/INFO] [FML]: Searching /workspaces/Mirandaland/servidor_minecraft/./mods for mods
-[02:11:02] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[02:11:02] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[02:11:02] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
-[02:11:02] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[02:11:02] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[02:11:02] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
-[02:11:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[02:11:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[02:11:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[02:11:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[02:11:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:11:05] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[02:11:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:11:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:11:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[02:11:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[02:11:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[02:11:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[02:11:06] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[02:11:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[02:11:11] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[02:11:11] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[02:11:11] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[02:11:11] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[02:11:11] [Server thread/INFO] [FML]: Searching /workspaces/Mirandaland/servidor_minecraft/./mods for mods
-[02:11:13] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
-[02:11:13] [Server thread/WARN] [FML]: Mod falling_tree is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.0
-[02:11:14] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
-[02:11:15] [Server thread/WARN] [FML]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
-[02:11:15] [Server thread/WARN] [FML]: Mod mekanismtools is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
-[02:11:15] [Server thread/INFO] [FML]: Disabling mod mousetweaks it is client side only.
-[02:11:15] [Server thread/INFO] [FML]: Forge Mod Loader has identified 32 mods to load
-[02:11:15] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[02:11:15] [Server thread/WARN] [FML]: Missing English translation for clib: assets/clib/lang/en_us.lang
-[02:11:15] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
-[02:11:15] [Server thread/WARN] [FML]: Missing English translation for cofhcore: assets/cofhcore/lang/en_us.lang
-[02:11:15] [Server thread/WARN] [FML]: Missing English translation for falling_tree: assets/falling_tree/lang/en_us.lang
-[02:11:15] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
-[02:11:15] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
-[02:11:15] [Server thread/WARN] [FML]: Missing English translation for mekanismgenerators: assets/mekanismgenerators/lang/en_us.lang
-[02:11:15] [Server thread/WARN] [FML]: Missing English translation for mekanismtools: assets/mekanismtools/lang/en_us.lang
-[02:11:15] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
-[02:11:15] [Server thread/WARN] [FML]: Missing English translation for teslacorelib_registries: assets/teslacorelib_registries/lang/en_us.lang
-[02:11:16] [Server thread/INFO] [FML]: FML has found a non-mod file MouseTweaks-2.10.1-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[02:11:16] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, biomesoplenty, clib, codechickenlib, cofhcore, cofhworld, falling_tree, forgelin, gravestone, industrialforegoing, ironchest, ironfurnaces, jei, mantle, mekanism, mekanismgenerators, mekanismtools, projecte, redstoneflux, tconstruct, teslacorelib, teslacorelib_registries, thermalcultivation, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, travelersbackpack, jade] at CLIENT
-[02:11:16] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, biomesoplenty, clib, codechickenlib, cofhcore, cofhworld, falling_tree, forgelin, gravestone, industrialforegoing, ironchest, ironfurnaces, jei, mantle, mekanism, mekanismgenerators, mekanismtools, projecte, redstoneflux, tconstruct, teslacorelib, teslacorelib_registries, thermalcultivation, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, travelersbackpack, jade] at SERVER
-[02:11:17] [Server thread/INFO] [clib]: Construction (Started)
-[02:11:17] [Server thread/ERROR] [clib]: > Error injecting proxy, PROXY
-[02:11:17] [Server thread/INFO] [clib]: Construction (Ended after 10ms)
-[02:11:17] [Server thread/ERROR] [FML]: The mod redstoneflux is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source RedstoneFlux-1.12-2.1.1.1-universal.jar, however there is no signature matching that description
-[02:11:17] [Server thread/ERROR] [FML]: The mod cofhworld is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source CoFHWorld-1.12.2-1.4.0.1-universal.jar, however there is no signature matching that description
-[02:11:19] [Server thread/WARN] [teslacorelib]: Annotated class 'net.ndrei.teslacorelib.blocks.multipart.MultiPartBlockEvents' not found!
-[02:11:20] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
-[02:11:20] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
-[02:11:20] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
-[02:11:20] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse wailaIntegration; missing dependency: waila
-[02:11:20] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
-[02:11:20] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse quarkIntegration; missing dependency: quark
-[02:11:20] [Server thread/INFO] [tconstruct]: Preparing to take over the world
-[02:11:20] [Server thread/ERROR] [FML]: The mod thermalfoundation is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalFoundation-1.12.2-2.6.7.1-universal.jar, however there is no signature matching that description
-[02:11:20] [Server thread/ERROR] [FML]: The mod thermalexpansion is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalExpansion-1.12.2-5.5.7.1-universal.jar, however there is no signature matching that description
-[02:11:20] [Server thread/ERROR] [FML]: The mod thermalcultivation is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalCultivation-1.12.2-0.3.6.1-universal.jar, however there is no signature matching that description
-[02:11:21] [Server thread/ERROR] [FML]: The mod thermaldynamics is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalDynamics-1.12.2-2.5.6.1-universal.jar, however there is no signature matching that description
-[02:11:21] [Server thread/ERROR] [FML]: The mod thermalinnovation is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalInnovation-1.12.2-0.3.6.1-universal.jar, however there is no signature matching that description
-[02:11:21] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[02:11:21] [Server thread/INFO] [FML]: Found 1261 ObjectHolder annotations
-[02:11:21] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[02:11:21] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[02:11:21] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[02:11:21] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalinnovation] Starting version check at https://raw.github.com/cofh/version/master/thermalinnovation_update.json
-[02:11:22] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalinnovation] Found status: UP_TO_DATE Target: null
-[02:11:22] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Starting version check at https://raw.github.com/cofh/version/master/cofhcore_update.json
-[02:11:22] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Found status: UP_TO_DATE Target: null
-[02:11:22] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[02:11:22] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[02:11:22] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalcultivation] Starting version check at https://raw.github.com/cofh/version/master/thermalcultivation_update.json
-[02:11:22] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalcultivation] Found status: UP_TO_DATE Target: null
-[02:11:22] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
-[02:11:22] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Found status: BETA Target: null
-[02:11:22] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
-[02:11:23] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Starting version check at https://raw.github.com/cofh/version/master/cofhworld_update.json
-[02:11:23] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Found status: UP_TO_DATE Target: null
-[02:11:23] [Forge Version Check/INFO] [forge.VersionCheck]: [thermaldynamics] Starting version check at https://raw.github.com/cofh/version/master/thermaldynamics_update.json
-[02:11:23] [Forge Version Check/INFO] [forge.VersionCheck]: [thermaldynamics] Found status: UP_TO_DATE Target: null
-[02:11:23] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[02:11:23] [Server thread/INFO] [clib]: Pre Initialization (Started)
-[02:11:23] [Server thread/INFO] [clib]: Pre Initialization (Ended after 23ms)
-[02:11:23] [Server thread/INFO] [CoFH World]: Registering default Feature Templates...
-[02:11:23] [Server thread/INFO] [CoFH World]: Registering default World Generators...
-[02:11:23] [Server thread/INFO] [CoFH World]: Verifying or creating base world generation directory...
-[02:11:23] [Server thread/INFO] [CoFH World]: Complete.
-[02:11:24] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[02:11:24] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Starting version check at https://raw.githubusercontent.com/Buuz135/Industrial-Foregoing/master/update.json
-[02:11:24] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Found status: BETA Target: null
-[02:11:24] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalfoundation] Starting version check at https://raw.github.com/cofh/version/master/thermalfoundation_update.json
-[02:11:24] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalfoundation] Found status: UP_TO_DATE Target: null
-[02:11:24] [Forge Version Check/INFO] [forge.VersionCheck]: [projecte] Starting version check at https://raw.githubusercontent.com/sinkillerj/ProjectE/mc1.12.x/update.json
-[02:11:24] [Forge Version Check/INFO] [forge.VersionCheck]: [projecte] Found status: UP_TO_DATE Target: null
-[02:11:24] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalexpansion] Starting version check at https://raw.github.com/cofh/version/master/thermalexpansion_update.json
-[02:11:24] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalexpansion] Found status: UP_TO_DATE Target: null
-[02:11:24] [Server thread/INFO] [Mekanism]: Didn't detect MCMP, ignoring compatibility package
-[02:11:27] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[02:11:27] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[02:11:27] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[02:11:27] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[02:11:27] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[02:11:27] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[02:11:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `portal`, expected `mekanism`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `conveyor_tile`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:31] [Server thread/INFO] [FML]: Applying holder lookups
-[02:11:31] [Server thread/INFO] [FML]: Holder lookups applied
-[02:11:31] [Server thread/INFO] [FML]: Applying holder lookups
-[02:11:31] [Server thread/INFO] [FML]: Holder lookups applied
-[02:11:31] [Server thread/INFO] [FML]: Applying holder lookups
-[02:11:31] [Server thread/INFO] [FML]: Holder lookups applied
-[02:11:31] [Server thread/INFO] [FML]: Applying holder lookups
-[02:11:31] [Server thread/INFO] [FML]: Holder lookups applied
-[02:11:31] [Server thread/INFO] [FML]: Injecting itemstacks
-[02:11:31] [Server thread/INFO] [FML]: Itemstack injection complete
-[02:11:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[02:11:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[02:11:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[02:11:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[02:11:31] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[02:11:31] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:11:31] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[02:11:31] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:11:31] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:wither_builder
+[21:58:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:58:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:58:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:58:04] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[21:58:04] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_462, running on Linux:amd64:6.8.0-1030-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[21:58:05] [main/INFO] [FML]: Searching /workspaces/Mirandaland/servidor_minecraft/./mods for mods
+[21:58:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:58:05] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:58:05] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[21:58:05] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:58:05] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:58:05] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
+[21:58:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:58:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:58:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:58:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:58:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:58:07] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[21:58:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:58:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:58:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:58:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:58:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:58:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:58:08] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[21:58:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[21:58:12] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[21:58:12] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[21:58:12] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[21:58:12] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[21:58:12] [Server thread/INFO] [FML]: Searching /workspaces/Mirandaland/servidor_minecraft/./mods for mods
+[21:58:13] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
+[21:58:13] [Server thread/WARN] [FML]: Mod falling_tree is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.0
+[21:58:14] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[21:58:14] [Server thread/WARN] [FML]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
+[21:58:14] [Server thread/WARN] [FML]: Mod mekanismtools is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
+[21:58:14] [Server thread/INFO] [FML]: Disabling mod mousetweaks it is client side only.
+[21:58:14] [Server thread/INFO] [FML]: Forge Mod Loader has identified 32 mods to load
+[21:58:14] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[21:58:14] [Server thread/WARN] [FML]: Missing English translation for clib: assets/clib/lang/en_us.lang
+[21:58:14] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
+[21:58:14] [Server thread/WARN] [FML]: Missing English translation for cofhcore: assets/cofhcore/lang/en_us.lang
+[21:58:14] [Server thread/WARN] [FML]: Missing English translation for falling_tree: assets/falling_tree/lang/en_us.lang
+[21:58:14] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[21:58:14] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[21:58:14] [Server thread/WARN] [FML]: Missing English translation for mekanismgenerators: assets/mekanismgenerators/lang/en_us.lang
+[21:58:14] [Server thread/WARN] [FML]: Missing English translation for mekanismtools: assets/mekanismtools/lang/en_us.lang
+[21:58:14] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
+[21:58:14] [Server thread/WARN] [FML]: Missing English translation for teslacorelib_registries: assets/teslacorelib_registries/lang/en_us.lang
+[21:58:14] [Server thread/INFO] [FML]: FML has found a non-mod file MouseTweaks-2.10.1-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[21:58:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, biomesoplenty, clib, codechickenlib, cofhcore, cofhworld, falling_tree, forgelin, gravestone, industrialforegoing, ironchest, ironfurnaces, jei, mantle, mekanism, mekanismgenerators, mekanismtools, projecte, redstoneflux, tconstruct, teslacorelib, teslacorelib_registries, thermalcultivation, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, travelersbackpack, jade] at CLIENT
+[21:58:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, biomesoplenty, clib, codechickenlib, cofhcore, cofhworld, falling_tree, forgelin, gravestone, industrialforegoing, ironchest, ironfurnaces, jei, mantle, mekanism, mekanismgenerators, mekanismtools, projecte, redstoneflux, tconstruct, teslacorelib, teslacorelib_registries, thermalcultivation, thermaldynamics, thermalexpansion, thermalfoundation, thermalinnovation, travelersbackpack, jade] at SERVER
+[21:58:15] [Server thread/INFO] [clib]: Construction (Started)
+[21:58:15] [Server thread/ERROR] [clib]: > Error injecting proxy, PROXY
+[21:58:15] [Server thread/INFO] [clib]: Construction (Ended after 13ms)
+[21:58:15] [Server thread/ERROR] [FML]: The mod redstoneflux is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source RedstoneFlux-1.12-2.1.1.1-universal.jar, however there is no signature matching that description
+[21:58:15] [Server thread/ERROR] [FML]: The mod cofhworld is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source CoFHWorld-1.12.2-1.4.0.1-universal.jar, however there is no signature matching that description
+[21:58:17] [Server thread/WARN] [teslacorelib]: Annotated class 'net.ndrei.teslacorelib.blocks.multipart.MultiPartBlockEvents' not found!
+[21:58:18] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
+[21:58:18] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[21:58:18] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[21:58:18] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse wailaIntegration; missing dependency: waila
+[21:58:18] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[21:58:18] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse quarkIntegration; missing dependency: quark
+[21:58:18] [Server thread/INFO] [tconstruct]: Preparing to take over the world
+[21:58:18] [Server thread/ERROR] [FML]: The mod thermalfoundation is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalFoundation-1.12.2-2.6.7.1-universal.jar, however there is no signature matching that description
+[21:58:18] [Server thread/ERROR] [FML]: The mod thermalexpansion is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalExpansion-1.12.2-5.5.7.1-universal.jar, however there is no signature matching that description
+[21:58:18] [Server thread/ERROR] [FML]: The mod thermalcultivation is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalCultivation-1.12.2-0.3.6.1-universal.jar, however there is no signature matching that description
+[21:58:18] [Server thread/ERROR] [FML]: The mod thermaldynamics is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalDynamics-1.12.2-2.5.6.1-universal.jar, however there is no signature matching that description
+[21:58:18] [Server thread/ERROR] [FML]: The mod thermalinnovation is expecting signature 8a6abf2cb9e141b866580d369ba6548732eff25f for source ThermalInnovation-1.12.2-0.3.6.1-universal.jar, however there is no signature matching that description
+[21:58:19] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[21:58:19] [Server thread/INFO] [FML]: Found 1261 ObjectHolder annotations
+[21:58:19] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[21:58:19] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[21:58:19] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[21:58:19] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalfoundation] Starting version check at https://raw.github.com/cofh/version/master/thermalfoundation_update.json
+[21:58:20] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalfoundation] Found status: UP_TO_DATE Target: null
+[21:58:20] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalcultivation] Starting version check at https://raw.github.com/cofh/version/master/thermalcultivation_update.json
+[21:58:20] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalcultivation] Found status: UP_TO_DATE Target: null
+[21:58:20] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[21:58:20] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[21:58:20] [Forge Version Check/INFO] [forge.VersionCheck]: [projecte] Starting version check at https://raw.githubusercontent.com/sinkillerj/ProjectE/mc1.12.x/update.json
+[21:58:20] [Forge Version Check/INFO] [forge.VersionCheck]: [projecte] Found status: UP_TO_DATE Target: null
+[21:58:20] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalinnovation] Starting version check at https://raw.github.com/cofh/version/master/thermalinnovation_update.json
+[21:58:20] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalinnovation] Found status: UP_TO_DATE Target: null
+[21:58:20] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Starting version check at https://raw.github.com/cofh/version/master/cofhworld_update.json
+[21:58:20] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhworld] Found status: UP_TO_DATE Target: null
+[21:58:20] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalexpansion] Starting version check at https://raw.github.com/cofh/version/master/thermalexpansion_update.json
+[21:58:20] [Forge Version Check/INFO] [forge.VersionCheck]: [thermalexpansion] Found status: UP_TO_DATE Target: null
+[21:58:20] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
+[21:58:21] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Found status: BETA Target: null
+[21:58:21] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
+[21:58:21] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Starting version check at https://raw.githubusercontent.com/Buuz135/Industrial-Foregoing/master/update.json
+[21:58:21] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Found status: BETA Target: null
+[21:58:21] [Forge Version Check/INFO] [forge.VersionCheck]: [thermaldynamics] Starting version check at https://raw.github.com/cofh/version/master/thermaldynamics_update.json
+[21:58:21] [Forge Version Check/INFO] [forge.VersionCheck]: [thermaldynamics] Found status: UP_TO_DATE Target: null
+[21:58:21] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[21:58:21] [Server thread/INFO] [clib]: Pre Initialization (Started)
+[21:58:21] [Server thread/INFO] [clib]: Pre Initialization (Ended after 29ms)
+[21:58:22] [Server thread/INFO] [CoFH World]: Registering default Feature Templates...
+[21:58:22] [Server thread/INFO] [CoFH World]: Registering default World Generators...
+[21:58:22] [Server thread/INFO] [CoFH World]: Verifying or creating base world generation directory...
+[21:58:22] [Server thread/INFO] [CoFH World]: Complete.
+[21:58:22] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[21:58:22] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Starting version check at https://raw.github.com/cofh/version/master/cofhcore_update.json
+[21:58:22] [Forge Version Check/INFO] [forge.VersionCheck]: [cofhcore] Found status: UP_TO_DATE Target: null
+[21:58:22] [Server thread/INFO] [Mekanism]: Didn't detect MCMP, ignoring compatibility package
+[21:58:25] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[21:58:25] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[21:58:25] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[21:58:25] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[21:58:25] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[21:58:25] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[21:58:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `portal`, expected `mekanism`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:29] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `conveyor_tile`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
+[21:58:30] [Server thread/INFO] [FML]: Applying holder lookups
+[21:58:30] [Server thread/INFO] [FML]: Holder lookups applied
+[21:58:30] [Server thread/INFO] [FML]: Applying holder lookups
+[21:58:30] [Server thread/INFO] [FML]: Holder lookups applied
+[21:58:30] [Server thread/INFO] [FML]: Applying holder lookups
+[21:58:30] [Server thread/INFO] [FML]: Holder lookups applied
+[21:58:30] [Server thread/INFO] [FML]: Applying holder lookups
+[21:58:30] [Server thread/INFO] [FML]: Holder lookups applied
+[21:58:30] [Server thread/INFO] [FML]: Injecting itemstacks
+[21:58:30] [Server thread/INFO] [FML]: Itemstack injection complete
+[21:58:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[21:58:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[21:58:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[21:58:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[21:58:31] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[21:58:31] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:58:31] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[21:58:31] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:58:31] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:wither_builder
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -188,7 +188,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:animal_byproduct_recolector
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:animal_byproduct_recolector
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -206,7 +206,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:ore_washer
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:ore_washer
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -224,7 +224,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:mob_duplicator
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:mob_duplicator
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -242,7 +242,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:mob_detector
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:mob_detector
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -260,7 +260,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:water_condensator
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:water_condensator
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -278,7 +278,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:block_destroyer
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:block_destroyer
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -296,7 +296,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:black_hole_unit
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:black_hole_unit
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -314,7 +314,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:hydrator
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:hydrator
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -332,7 +332,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:bioreactor
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:bioreactor
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -350,7 +350,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:black_hole_tank
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:black_hole_tank
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -368,7 +368,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:laser_base
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:laser_base
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -386,7 +386,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:enchantment_aplicator
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:enchantment_aplicator
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -404,7 +404,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:crop_recolector
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:crop_recolector
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -422,7 +422,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:enchantment_refiner
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:enchantment_refiner
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -440,7 +440,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:enchantment_extractor
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:enchantment_extractor
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -458,7 +458,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:laser_drill
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:laser_drill
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -476,7 +476,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:block_placer
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:block_placer
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -494,7 +494,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:black_hole_controller_reworked
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:black_hole_controller_reworked
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -512,7 +512,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:sludge_refiner
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:sludge_refiner
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -530,7 +530,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:animal_stock_increaser
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:animal_stock_increaser
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -548,7 +548,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:animal_independence_selector
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:animal_independence_selector
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -566,7 +566,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:crop_enrich_material_injector
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:crop_enrich_material_injector
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -584,7 +584,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:petrified_fuel_generator
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:petrified_fuel_generator
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -602,7 +602,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:lava_fabricator
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:lava_fabricator
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -620,7 +620,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:biofuel_generator
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:biofuel_generator
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -638,7 +638,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:dye_mixer
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:dye_mixer
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -656,7 +656,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:water_resources_collector
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:water_resources_collector
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -674,7 +674,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:energy_field_provider
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:energy_field_provider
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -692,7 +692,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:villager_trade_exchanger
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:villager_trade_exchanger
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -710,7 +710,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:fluid_crafter
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:fluid_crafter
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -728,7 +728,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:resourceful_furnace
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:resourceful_furnace
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -746,7 +746,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:material_stonework_factory
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:material_stonework_factory
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -764,7 +764,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:animal_growth_increaser
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:animal_growth_increaser
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -782,7 +782,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:mob_slaughter_factory
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:mob_slaughter_factory
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -800,7 +800,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:oredictionary_converter
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:oredictionary_converter
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -818,7 +818,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:item_splitter
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:item_splitter
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -836,7 +836,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:enchantment_invoker
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:enchantment_invoker
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -854,7 +854,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:ore_sieve
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:ore_sieve
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -872,7 +872,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:sewage_composter_solidifier
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:sewage_composter_solidifier
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -890,7 +890,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:animal_resource_harvester
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:animal_resource_harvester
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -908,7 +908,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:latex_processing_unit
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:latex_processing_unit
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -926,7 +926,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:spores_recreator
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:spores_recreator
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -944,7 +944,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:ore_processor
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:ore_processor
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -962,7 +962,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:plant_interactor
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:plant_interactor
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -980,7 +980,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:crop_sower
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:crop_sower
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -998,7 +998,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:ore_fermenter
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:ore_fermenter
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -1016,7 +1016,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:pitiful_fuel_generator
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:pitiful_fuel_generator
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -1034,7 +1034,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:protein_reactor
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:protein_reactor
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -1052,7 +1052,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:froster
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:froster
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -1070,7 +1070,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:fluid_pump
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:fluid_pump
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -1088,7 +1088,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:potion_enervator
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:potion_enervator
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -1106,7 +1106,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:fluiddictionary_converter
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:fluiddictionary_converter
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -1124,7 +1124,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:32] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:mob_relocator
+[21:58:31] [Server thread/ERROR] [FML]: Parsing error loading recipe industrialforegoing:mob_relocator
 com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -1142,144 +1142,112 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
-[02:11:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `slime`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:40] [Server thread/INFO] [FML]: Applying holder lookups
-[02:11:40] [Server thread/INFO] [FML]: Holder lookups applied
-[02:11:40] [Server thread/INFO] [clib]: Initialization (Started)
-[02:11:40] [Server thread/INFO] [clib]: Initialization (Ended after 0ms)
-[02:11:40] [Server thread/INFO] [Mekanism]: Version 9.8.3 initializing...
-[02:11:41] [Server thread/INFO] [Mekanism]: Loading complete.
-[02:11:41] [Server thread/INFO] [Mekanism]: Mod loaded.
-[02:11:41] [Server thread/INFO] [Mekanism]: Loaded MekanismGenerators module.
-[02:11:41] [Server thread/INFO] [Mekanism]: Loaded 'Mekanism: Tools' module.
-[02:11:41] [Server thread/INFO] [thermalfoundation]: Thermal Foundation: Tinkers' Construct Plugin Enabled.
-[02:11:41] [Server thread/INFO] [FML]: Injecting itemstacks
-[02:11:41] [Server thread/INFO] [FML]: Itemstack injection complete
-[02:11:41] [Server thread/INFO] [clib]: Post Initialization (Started)
-[02:11:41] [Server thread/INFO] [clib]: Post Initialization (Ended after 4ms)
-[02:11:41] [Server thread/INFO] [Mekanism]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[02:11:41] [Server thread/INFO] [Mekanism]: Finished loading Cardboard Box blacklist (loaded 0 entries)
-[02:11:41] [Server thread/INFO] [Mekanism]: Hooking complete.
-[02:11:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `teslacorelib` for name `machine_case`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
-[02:11:41] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Started adding oredict melting recipes
-[02:11:42] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Oredict melting recipes finished in 946.956953 ms
-[02:11:42] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Biomes O' Plenty Plugin Enabled.
-[02:11:42] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Tinkers' Construct Plugin Enabled.
-[02:11:42] [Server thread/INFO] [cofhcore]: CoFH Core: Load Complete.
-[02:11:42] [Server thread/INFO] [CoFH World]: Accumulating world generation files from: "/workspaces/Mirandaland/servidor_minecraft/config/cofh/world"
-[02:11:42] [Server thread/INFO] [CoFH World]: Found a total of 3 world generation files.
-[02:11:42] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/02_thermalfoundation_oil.json":
-[02:11:42] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/03_thermalfoundation_clathrates.json":
-[02:11:42] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/01_thermalfoundation_ores.json":
-[02:11:42] [Server thread/INFO] [CoFH World]: CoFH World: Load Complete.
-[02:11:42] [Server thread/INFO] [thermalfoundation]: [Whitelist] Reading established Whitelist from file.
-[02:11:42] [Server thread/INFO] [thermalfoundation]: Thermal Foundation: Load Complete.
-[02:11:42] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Load Complete.
-[02:11:42] [Server thread/INFO] [thermalcultivation]: Thermal Cultivation: Load Complete.
-[02:11:42] [Server thread/INFO] [thermaldynamics]: Thermal Dynamics: Load Complete.
-[02:11:42] [Server thread/INFO] [thermalinnovation]: Thermal Innovation: Load Complete.
-[02:11:43] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 32 mods
-[02:11:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[02:11:43] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[02:11:43] [Server thread/INFO] [FML]: Applying holder lookups
-[02:11:43] [Server thread/INFO] [FML]: Holder lookups applied
-[02:11:43] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
-[02:11:43] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
-[02:11:43] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:89]: ChunkGeneratorOverworldBOP json: 
-[02:11:43] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:96]: ChunkGeneratorOverworldBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
-[02:11:43] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@7197ea54)
-[02:11:44] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 719 advancements
-[02:11:44] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@7197ea54)
-[02:11:44] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[02:11:44] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7197ea54)
-[02:11:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[02:11:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 15%
-[02:11:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 77%
-[02:11:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.756s)! For help, type "help" or "?"
-[02:11:47] [Server thread/INFO] [projecte]: Starting server-side EMC mapping.
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'obisidan.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'glass.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'glass.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'iron.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'gold.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'copper.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'tin.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'silver.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'lead.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'nickel.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'aluminum.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'ardite.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'cobalt.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'platinum.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'obsidian.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'electrum.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'invar.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'signalum.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'lumium.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'enderium.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'mithril.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'bronze.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'aluminumbrass.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'manyullyn.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'alumite.molten'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'emerald.liquid'
-[02:11:47] [Server thread/WARN] [projecte]: Can not get Fluid 'pryotheum'
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 9*minecraft:iron_nugget:0 => 1*minecraft:iron_ingot:0) cost 252 but output value is 256
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 9*thermalfoundation:material:17 => 1*minecraft:emerald:0) cost 16380 but output value is 16384
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*minecraft:gold_nugget:0 => 1*minecraft:gold_ingot:0" ingredient cost: 2043 value of result: 2048 setValueFromConversion: 0 + 8*OD: ingotIron => 1*minecraft:gold_ingot:0
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 1*minecraft:cobblestone:0 + 1*minecraft:stone:3 => 2*minecraft:stone:5) cost 17 but output value is 16
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:229 => 1*thermalfoundation:material:165" ingredient cost: 378 value of result: 384 setValueFromConversion: 0 + 3*OD: ingotCopper + 1*OD: ingotSilver + 10*OD: dustRedstone => 4*thermalfoundation:material:165
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:230 => 1*thermalfoundation:material:166" ingredient cost: 702 value of result: 704 setValueFromConversion: 0 + 3*OD: ingotTin + 1*OD: ingotSilver + 4*OD: dustGlowstone => 4*thermalfoundation:material:166
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:225 => 1*thermalfoundation:material:161" ingredient cost: 1278 value of result: 1280 setValueFromConversion: 0 + 1*OD: ingotSilver + 1*OD: ingotGold => 2*thermalfoundation:material:161
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:226 => 1*thermalfoundation:material:162" ingredient cost: 504 value of result: 512 setValueFromConversion: 0 + 1*OD: ingotNickel + 2*OD: ingotIron => 3*thermalfoundation:material:162
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.thermalfoundation.material@227, 1xitem.Nugget@2] => 1*thermalfoundation:material:163" ingredient cost: 153 value of result: 160 setValueFromConversion: 0 + 3*OD: ingotCopper + 1*OD: ingotTin => 4*thermalfoundation:material:163
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:196 => 1*thermalfoundation:material:132" ingredient cost: 126 value of result: 128 setValueFromConversion: 0 + 1*OD: ingotIron => 2*thermalfoundation:material:132
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:197 => 1*thermalfoundation:material:133" ingredient cost: 1017 value of result: 1024 setValueFromConversion: 0 + 4*OD: ingotIron => 1*thermalfoundation:material:133
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:198 => 1*thermalfoundation:material:134" ingredient cost: 4095 value of result: 4096 setValueFromConversion: 0 + 16*OD: ingotIron => 1*thermalfoundation:material:134
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.thermalfoundation.material@192, 1xitem.Nugget@5] => 1*thermalfoundation:material:128" ingredient cost: 126 value of result: 128 setValueFromConversion: 0 + 1*OD: ingotIron => 2*thermalfoundation:material:128
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.thermalfoundation.material@193, 1xitem.Nugget@6] => 1*thermalfoundation:material:129" ingredient cost: 252 value of result: 256 setValueFromConversion: 0 + 1*OD: ingotIron => 1*thermalfoundation:material:129
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:194 => 1*thermalfoundation:material:130" ingredient cost: 504 value of result: 512 setValueFromConversion: 0 + 2*OD: ingotIron => 1*thermalfoundation:material:130
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:195 => 1*thermalfoundation:material:131" ingredient cost: 504 value of result: 512 setValueFromConversion: 0 + 2*OD: ingotIron => 1*thermalfoundation:material:131
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 9*thermalfoundation:material:16 => 1*minecraft:diamond:0) cost 8190 but output value is 8192
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.thermalfoundation.material@227, 1xitem.Nugget@2] => 1*mekanism:ingot:2" ingredient cost: 153 value of result: 160 setValueFromConversion: 0 + 3*OD: ingotCopper + 1*OD: ingotTin => 4*mekanism:ingot:2
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 9*mekanism:nugget:1 => 1*mekanism:ingot:1) cost 504 but output value is 512
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.thermalfoundation.material@193, 1xitem.Nugget@6] => 1*mekanism:ingot:6" ingredient cost: 252 value of result: 256 setValueFromConversion: 0 + 1*OD: ingotIron => 1*mekanism:ingot:6
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.thermalfoundation.material@192, 1xitem.Nugget@5] => 1*mekanism:ingot:5" ingredient cost: 126 value of result: 128 setValueFromConversion: 0 + 1*OD: ingotIron => 2*mekanism:ingot:5
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*tconstruct:nuggets:2 => 1*tconstruct:ingots:2" ingredient cost: 2043 value of result: 2048 setValueFromConversion: 0 + 1*OD: ingotCobalt + 1*OD: ingotArdite => 1*tconstruct:ingots:2
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*tconstruct:nuggets:1 => 1*tconstruct:ingots:1" ingredient cost: 1017 value of result: 1024 setValueFromConversion: 0 + 4*OD: ingotIron => 1*tconstruct:ingots:1
-[02:11:47] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*tconstruct:nuggets:0 => 1*tconstruct:ingots:0" ingredient cost: 1017 value of result: 1024 setValueFromConversion: 0 + 4*OD: ingotIron => 1*tconstruct:ingots:0
-[02:11:47] [Server thread/INFO] [projecte]: Registered 1683 EMC values. (took 724 ms)
-[02:11:47] [Server thread/INFO] [FML]: Unloading dimension 1
-[02:11:47] [Server thread/INFO] [FML]: Unloading dimension -1
-[02:15:14] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[02:15:14] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 37 mods : minecraft@1.12.2,industrialforegoing@1.12.2-1.12.2,tconstruct@1.12.2-2.13.0.183,mousetweaks@2.10.1,thermaldynamics@2.5.6,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,jade@0.1.0,ironfurnaces@1.3.5,jei@4.16.1.1013,falling_tree@2.4.0,cofhcore@4.6.6,thermalcultivation@0.3.6,mekanism@1.12.2-9.8.3.390,projecte@1.12.2-PE1.4.1,thermalinnovation@0.3.6,teslacorelib_registries@1.0.18,thermalfoundation@2.6.7,mantle@1.12-1.3.3.55,xaerominimap@25.2.10,mcp@9.42,gravestone@1.10.3,xaeroworldmap@1.39.12,teslacorelib@1.0.18,travelersbackpack@1.0.35,FML@8.0.99.99,thermalexpansion@5.5.7,forgelin@1.8.4,mekanismtools@1.12.2-9.8.3.390,cofhworld@1.4.0,clib@1.0.2.31,xaerominimap_core@1.12.2-1.0,mekanismgenerators@1.12.2-9.8.3.390,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,codechickenlib@3.2.3.358,ironchest@1.12.2-7.0.67.844
-[02:15:15] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[02:15:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:15:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: goldbaker11[/172.28.55.209:63651] logged in with entity id 317 at (60.69999998807907, 62.0, 248.5413694870162)
-[02:15:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 joined the game
-[02:15:19] [Server thread/INFO] [Mekanism]: Sent config to 'goldbaker11.'
-[02:17:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2203ms behind, skipping 44 tick(s)
-[02:17:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 has made the advancement [Monster Hunter]
-[02:25:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: goldbaker11 moved too quickly! -10.276110359531515,-0.49748491242849013,1.2506716249512237
-[02:27:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: goldbaker11 lost connection: Disconnected
-[02:27:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 left the game
-[02:27:46] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[02:27:46] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 37 mods : minecraft@1.12.2,industrialforegoing@1.12.2-1.12.2,tconstruct@1.12.2-2.13.0.183,mousetweaks@2.10.1,thermaldynamics@2.5.6,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,jade@0.1.0,ironfurnaces@1.3.5,jei@4.16.1.1013,falling_tree@2.4.0,cofhcore@4.6.6,thermalcultivation@0.3.6,mekanism@1.12.2-9.8.3.390,projecte@1.12.2-PE1.4.1,thermalinnovation@0.3.6,teslacorelib_registries@1.0.18,thermalfoundation@2.6.7,mantle@1.12-1.3.3.55,xaerominimap@25.2.10,mcp@9.42,gravestone@1.10.3,xaeroworldmap@1.39.12,teslacorelib@1.0.18,travelersbackpack@1.0.35,FML@8.0.99.99,thermalexpansion@5.5.7,forgelin@1.8.4,mekanismtools@1.12.2-9.8.3.390,cofhworld@1.4.0,clib@1.0.2.31,xaerominimap_core@1.12.2-1.0,mekanismgenerators@1.12.2-9.8.3.390,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,codechickenlib@3.2.3.358,ironchest@1.12.2-7.0.67.844
-[02:27:46] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[02:27:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:27:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: goldbaker11[/172.28.55.209:63661] logged in with entity id 14698 at (-234.30000001192093, 63.0, 279.4753526470299)
-[02:27:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 joined the game
-[02:27:49] [Server thread/INFO] [Mekanism]: Sent config to 'goldbaker11.'
-[02:32:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 has made the advancement [Sweet dreams]
-[02:46:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: goldbaker11 moved too quickly! 10.14031946920008,-0.7500687430237463,-2.4720133398921007
-[03:05:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: goldbaker11 lost connection: Timed out
-[03:05:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 left the game
-[04:39:45] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[04:39:45] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 37 mods : minecraft@1.12.2,industrialforegoing@1.12.2-1.12.2,tconstruct@1.12.2-2.13.0.183,mousetweaks@2.10.1,thermaldynamics@2.5.6,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,jade@0.1.0,ironfurnaces@1.3.5,jei@4.16.1.1013,falling_tree@2.4.0,cofhcore@4.6.6,thermalcultivation@0.3.6,mekanism@1.12.2-9.8.3.390,projecte@1.12.2-PE1.4.1,thermalinnovation@0.3.6,teslacorelib_registries@1.0.18,thermalfoundation@2.6.7,mantle@1.12-1.3.3.55,xaerominimap@25.2.10,mcp@9.42,gravestone@1.10.3,xaeroworldmap@1.39.12,teslacorelib@1.0.18,travelersbackpack@1.0.35,FML@8.0.99.99,thermalexpansion@5.5.7,forgelin@1.8.4,mekanismtools@1.12.2-9.8.3.390,cofhworld@1.4.0,clib@1.0.2.31,xaerominimap_core@1.12.2-1.0,mekanismgenerators@1.12.2-9.8.3.390,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,codechickenlib@3.2.3.358,ironchest@1.12.2-7.0.67.844
-[04:39:45] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[04:39:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[04:39:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: goldbaker11[/172.28.55.209:63780] logged in with entity id 55669 at (-49.69999998807907, 64.0, 1172.699999988079)
-[04:39:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 joined the game
-[04:39:47] [Server thread/INFO] [Mekanism]: Sent config to 'goldbaker11.'
-[04:46:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 has made the advancement [Acquire Hardware]
-[04:53:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 has made the advancement [Isn't It Iron Pick]
+[21:58:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `slime`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:16] [Server thread/INFO] [FML]: Applying holder lookups
+[21:59:16] [Server thread/INFO] [FML]: Holder lookups applied
+[21:59:16] [Server thread/INFO] [clib]: Initialization (Started)
+[21:59:16] [Server thread/INFO] [clib]: Initialization (Ended after 0ms)
+[21:59:16] [Server thread/INFO] [Mekanism]: Version 9.8.3 initializing...
+[21:59:16] [Server thread/INFO] [Mekanism]: Loading complete.
+[21:59:16] [Server thread/INFO] [Mekanism]: Mod loaded.
+[21:59:16] [Server thread/INFO] [Mekanism]: Loaded MekanismGenerators module.
+[21:59:16] [Server thread/INFO] [Mekanism]: Loaded 'Mekanism: Tools' module.
+[21:59:17] [Server thread/INFO] [thermalfoundation]: Thermal Foundation: Tinkers' Construct Plugin Enabled.
+[21:59:17] [Server thread/INFO] [FML]: Injecting itemstacks
+[21:59:17] [Server thread/INFO] [FML]: Itemstack injection complete
+[21:59:17] [Server thread/INFO] [clib]: Post Initialization (Started)
+[21:59:17] [Server thread/INFO] [clib]: Post Initialization (Ended after 0ms)
+[21:59:17] [Server thread/INFO] [Mekanism]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[21:59:17] [Server thread/INFO] [Mekanism]: Finished loading Cardboard Box blacklist (loaded 0 entries)
+[21:59:17] [Server thread/INFO] [Mekanism]: Hooking complete.
+[21:59:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `teslacorelib` for name `machine_case`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
+[21:59:17] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Started adding oredict melting recipes
+[21:59:18] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Oredict melting recipes finished in 1170.981457 ms
+[21:59:18] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Biomes O' Plenty Plugin Enabled.
+[21:59:18] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Tinkers' Construct Plugin Enabled.
+[21:59:19] [Server thread/INFO] [cofhcore]: CoFH Core: Load Complete.
+[21:59:19] [Server thread/INFO] [CoFH World]: Accumulating world generation files from: "/workspaces/Mirandaland/servidor_minecraft/config/cofh/world"
+[21:59:19] [Server thread/INFO] [CoFH World]: Found a total of 3 world generation files.
+[21:59:19] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/02_thermalfoundation_oil.json":
+[21:59:19] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/03_thermalfoundation_clathrates.json":
+[21:59:19] [Server thread/INFO] [CoFH World]: Reading world generation info from: "cofh/world/01_thermalfoundation_ores.json":
+[21:59:19] [Server thread/INFO] [CoFH World]: CoFH World: Load Complete.
+[21:59:19] [Server thread/INFO] [thermalfoundation]: [Whitelist] Reading established Whitelist from file.
+[21:59:19] [Server thread/INFO] [thermalfoundation]: Thermal Foundation: Load Complete.
+[21:59:19] [Server thread/INFO] [thermalexpansion]: Thermal Expansion: Load Complete.
+[21:59:19] [Server thread/INFO] [thermalcultivation]: Thermal Cultivation: Load Complete.
+[21:59:19] [Server thread/INFO] [thermaldynamics]: Thermal Dynamics: Load Complete.
+[21:59:19] [Server thread/INFO] [thermalinnovation]: Thermal Innovation: Load Complete.
+[21:59:19] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 32 mods
+[21:59:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[21:59:19] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[21:59:20] [Server thread/INFO] [FML]: Applying holder lookups
+[21:59:20] [Server thread/INFO] [FML]: Holder lookups applied
+[21:59:20] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[21:59:20] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[21:59:20] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:89]: ChunkGeneratorOverworldBOP json: 
+[21:59:20] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:96]: ChunkGeneratorOverworldBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
+[21:59:20] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@4492a830)
+[21:59:20] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 719 advancements
+[21:59:20] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@4492a830)
+[21:59:20] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[21:59:20] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@4492a830)
+[21:59:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[21:59:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 16%
+[21:59:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 93%
+[21:59:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.338s)! For help, type "help" or "?"
+[21:59:23] [Server thread/INFO] [projecte]: Starting server-side EMC mapping.
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'obisidan.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'glass.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'glass.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'iron.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'gold.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'copper.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'tin.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'silver.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'lead.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'nickel.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'aluminum.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'ardite.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'cobalt.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'platinum.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'obsidian.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'electrum.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'invar.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'signalum.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'lumium.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'enderium.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'mithril.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'bronze.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'aluminumbrass.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'manyullyn.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'alumite.molten'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'emerald.liquid'
+[21:59:23] [Server thread/WARN] [projecte]: Can not get Fluid 'pryotheum'
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 9*minecraft:iron_nugget:0 => 1*minecraft:iron_ingot:0) cost 252 but output value is 256
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 9*thermalfoundation:material:17 => 1*minecraft:emerald:0) cost 16380 but output value is 16384
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*minecraft:gold_nugget:0 => 1*minecraft:gold_ingot:0" ingredient cost: 2043 value of result: 2048 setValueFromConversion: 0 + 8*OD: ingotIron => 1*minecraft:gold_ingot:0
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 1*minecraft:cobblestone:0 + 1*minecraft:stone:3 => 2*minecraft:stone:5) cost 17 but output value is 16
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:229 => 1*thermalfoundation:material:165" ingredient cost: 378 value of result: 384 setValueFromConversion: 0 + 3*OD: ingotCopper + 1*OD: ingotSilver + 10*OD: dustRedstone => 4*thermalfoundation:material:165
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:230 => 1*thermalfoundation:material:166" ingredient cost: 702 value of result: 704 setValueFromConversion: 0 + 3*OD: ingotTin + 1*OD: ingotSilver + 4*OD: dustGlowstone => 4*thermalfoundation:material:166
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:225 => 1*thermalfoundation:material:161" ingredient cost: 1278 value of result: 1280 setValueFromConversion: 0 + 1*OD: ingotSilver + 1*OD: ingotGold => 2*thermalfoundation:material:161
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:226 => 1*thermalfoundation:material:162" ingredient cost: 504 value of result: 512 setValueFromConversion: 0 + 1*OD: ingotNickel + 2*OD: ingotIron => 3*thermalfoundation:material:162
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.thermalfoundation.material@227, 1xitem.Nugget@2] => 1*thermalfoundation:material:163" ingredient cost: 153 value of result: 160 setValueFromConversion: 0 + 3*OD: ingotCopper + 1*OD: ingotTin => 4*thermalfoundation:material:163
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:196 => 1*thermalfoundation:material:132" ingredient cost: 126 value of result: 128 setValueFromConversion: 0 + 1*OD: ingotIron => 2*thermalfoundation:material:132
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:197 => 1*thermalfoundation:material:133" ingredient cost: 1017 value of result: 1024 setValueFromConversion: 0 + 4*OD: ingotIron => 1*thermalfoundation:material:133
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:198 => 1*thermalfoundation:material:134" ingredient cost: 4095 value of result: 4096 setValueFromConversion: 0 + 16*OD: ingotIron => 1*thermalfoundation:material:134
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.thermalfoundation.material@192, 1xitem.Nugget@5] => 1*thermalfoundation:material:128" ingredient cost: 126 value of result: 128 setValueFromConversion: 0 + 1*OD: ingotIron => 2*thermalfoundation:material:128
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.thermalfoundation.material@193, 1xitem.Nugget@6] => 1*thermalfoundation:material:129" ingredient cost: 252 value of result: 256 setValueFromConversion: 0 + 1*OD: ingotIron => 1*thermalfoundation:material:129
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:194 => 1*thermalfoundation:material:130" ingredient cost: 504 value of result: 512 setValueFromConversion: 0 + 2*OD: ingotIron => 1*thermalfoundation:material:130
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*thermalfoundation:material:195 => 1*thermalfoundation:material:131" ingredient cost: 504 value of result: 512 setValueFromConversion: 0 + 2*OD: ingotIron => 1*thermalfoundation:material:131
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 9*thermalfoundation:material:16 => 1*minecraft:diamond:0) cost 8190 but output value is 8192
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.thermalfoundation.material@227, 1xitem.Nugget@2] => 1*mekanism:ingot:2" ingredient cost: 153 value of result: 160 setValueFromConversion: 0 + 3*OD: ingotCopper + 1*OD: ingotTin => 4*mekanism:ingot:2
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: ingredients (0 + 9*mekanism:nugget:1 => 1*mekanism:ingot:1) cost 504 but output value is 512
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.thermalfoundation.material@193, 1xitem.Nugget@6] => 1*mekanism:ingot:6" ingredient cost: 252 value of result: 256 setValueFromConversion: 0 + 1*OD: ingotIron => 1*mekanism:ingot:6
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*NSSFAKE:/[1xitem.thermalfoundation.material@192, 1xitem.Nugget@5] => 1*mekanism:ingot:5" ingredient cost: 126 value of result: 128 setValueFromConversion: 0 + 1*OD: ingotIron => 2*mekanism:ingot:5
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*tconstruct:nuggets:2 => 1*tconstruct:ingots:2" ingredient cost: 2043 value of result: 2048 setValueFromConversion: 0 + 1*OD: ingotCobalt + 1*OD: ingotArdite => 1*tconstruct:ingots:2
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*tconstruct:nuggets:1 => 1*tconstruct:ingots:1" ingredient cost: 1017 value of result: 1024 setValueFromConversion: 0 + 4*OD: ingotIron => 1*tconstruct:ingots:1
+[21:59:23] [Server thread/WARN] [projecte]: EMC Exploit: "0 + 9*tconstruct:nuggets:0 => 1*tconstruct:ingots:0" ingredient cost: 1017 value of result: 1024 setValueFromConversion: 0 + 4*OD: ingotIron => 1*tconstruct:ingots:0
+[21:59:24] [Server thread/INFO] [projecte]: Registered 1683 EMC values. (took 1096 ms)
+[21:59:24] [Server thread/INFO] [FML]: Unloading dimension 1
+[21:59:24] [Server thread/INFO] [FML]: Unloading dimension -1
