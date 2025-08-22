@@ -17997,3 +17997,87 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 
 [04:31:47] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 840 times.
 
+[04:32:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:32:37] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 845 times.
+
+[04:32:37] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 845 times.
+
+[04:32:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:33:27] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 850 times.
+
+[04:33:27] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 850 times.
+
+[04:33:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:34:17] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 855 times.
+
+[04:34:17] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 855 times.
+
+[04:34:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:35:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:35:07] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 860 times.
+
+[04:35:07] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 860 times.
+
+[04:35:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:35:57] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 865 times.
+
+[04:35:57] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 865 times.
+
+[04:36:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:36:47] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 870 times.
+
+[04:36:47] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 870 times.
+
+[04:37:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:37:37] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 875 times.
+
+[04:37:37] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 875 times.
+
+[04:38:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:38:27] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 880 times.
+
+[04:38:27] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 880 times.
+
+[04:38:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:39:17] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 885 times.
+
+[04:39:17] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 885 times.
+
+[04:39:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:39:45] [Server thread/DEBUG] [projecte]: Clearing offline data cache in preparation to load online data
+[04:39:45] [Server thread/TRACE] [FML]: Handshake channel activating
+[04:39:45] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[04:39:45] [Server thread/DEBUG] [FML]:   Next: HELLO
+[04:39:45] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[04:39:45] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[04:39:45] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:37 mods->FMLHandshakeServerState$2:HELLO
+[04:39:45] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 37 mods : minecraft@1.12.2,industrialforegoing@1.12.2-1.12.2,tconstruct@1.12.2-2.13.0.183,mousetweaks@2.10.1,thermaldynamics@2.5.6,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,jade@0.1.0,ironfurnaces@1.3.5,jei@4.16.1.1013,falling_tree@2.4.0,cofhcore@4.6.6,thermalcultivation@0.3.6,mekanism@1.12.2-9.8.3.390,projecte@1.12.2-PE1.4.1,thermalinnovation@0.3.6,teslacorelib_registries@1.0.18,thermalfoundation@2.6.7,mantle@1.12-1.3.3.55,xaerominimap@25.2.10,mcp@9.42,gravestone@1.10.3,xaeroworldmap@1.39.12,teslacorelib@1.0.18,travelersbackpack@1.0.35,FML@8.0.99.99,thermalexpansion@5.5.7,forgelin@1.8.4,mekanismtools@1.12.2-9.8.3.390,cofhworld@1.4.0,clib@1.0.2.31,xaerominimap_core@1.12.2-1.0,mekanismgenerators@1.12.2-9.8.3.390,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,codechickenlib@3.2.3.358,ironchest@1.12.2-7.0.67.844
+[04:39:45] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[04:39:45] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[04:39:45] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[04:39:45] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[04:39:47] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[04:39:47] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[04:39:47] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[04:39:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:39:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: goldbaker11[/172.28.55.209:63780] logged in with entity id 55669 at (-49.69999998807907, 64.0, 1172.699999988079)
+[04:39:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 joined the game
+[04:39:47] [Server thread/DEBUG] [projecte]: EMC data size: 26928 bytes
+[04:39:47] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to goldbaker11
+[04:39:47] [Server thread/INFO] [Mekanism]: Sent config to 'goldbaker11.'
+[04:39:48] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[04:40:07] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 890 times.
+
+[04:40:07] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 890 times.
+
+[04:40:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:40:57] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 895 times.
+
+[04:40:57] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 895 times.
+
+[04:41:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:41:47] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 900 times.
+
+[04:41:47] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 900 times.
+
+[04:41:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
