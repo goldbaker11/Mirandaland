@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-22 05:51:53 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-22 05:24:43 +0000"
@@ -864,7 +870,8 @@
     "criteria": {
       "skeleton": "2025-08-22 02:18:10 +0000",
       "zombie": "2025-08-22 02:17:53 +0000",
-      "spider": "2025-08-22 02:18:57 +0000"
+      "spider": "2025-08-22 02:18:57 +0000",
+      "creeper": "2025-08-22 05:51:52 +0000"
     },
     "done": false
   },
