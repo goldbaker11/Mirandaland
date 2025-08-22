@@ -1251,3 +1251,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 [21:59:24] [Server thread/INFO] [projecte]: Registered 1683 EMC values. (took 1096 ms)
 [21:59:24] [Server thread/INFO] [FML]: Unloading dimension 1
 [21:59:24] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:13:37] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[22:13:37] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 37 mods : minecraft@1.12.2,industrialforegoing@1.12.2-1.12.2,tconstruct@1.12.2-2.13.0.183,mousetweaks@2.10.1,thermaldynamics@2.5.6,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,jade@0.1.0,ironfurnaces@1.3.5,jei@4.16.1.1013,falling_tree@2.4.0,cofhcore@4.6.6,thermalcultivation@0.3.6,mekanism@1.12.2-9.8.3.390,projecte@1.12.2-PE1.4.1,thermalinnovation@0.3.6,teslacorelib_registries@1.0.18,thermalfoundation@2.6.7,mantle@1.12-1.3.3.55,xaerominimap@25.2.10,mcp@9.42,gravestone@1.10.3,xaeroworldmap@1.39.12,teslacorelib@1.0.18,travelersbackpack@1.0.35,FML@8.0.99.99,thermalexpansion@5.5.7,forgelin@1.8.4,mekanismtools@1.12.2-9.8.3.390,cofhworld@1.4.0,clib@1.0.2.31,xaerominimap_core@1.12.2-1.0,mekanismgenerators@1.12.2-9.8.3.390,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,codechickenlib@3.2.3.358,ironchest@1.12.2-7.0.67.844
+[22:13:37] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[22:13:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:13:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: goldbaker11[/172.28.55.209:53405] logged in with entity id 217 at (-52.3983091995281, 64.0, 1169.7862610809736)
+[22:13:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 joined the game
+[22:13:41] [Server thread/INFO] [Mekanism]: Sent config to 'goldbaker11.'
+[22:14:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: goldbaker11 lost connection: Timed out
+[22:14:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 left the game
+[22:14:27] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[22:14:27] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 37 mods : minecraft@1.12.2,industrialforegoing@1.12.2-1.12.2,tconstruct@1.12.2-2.13.0.183,mousetweaks@2.10.1,thermaldynamics@2.5.6,biomesoplenty@7.0.1.2445,redstoneflux@2.1.1,jade@0.1.0,ironfurnaces@1.3.5,jei@4.16.1.1013,falling_tree@2.4.0,cofhcore@4.6.6,thermalcultivation@0.3.6,mekanism@1.12.2-9.8.3.390,projecte@1.12.2-PE1.4.1,thermalinnovation@0.3.6,teslacorelib_registries@1.0.18,thermalfoundation@2.6.7,mantle@1.12-1.3.3.55,xaerominimap@25.2.10,mcp@9.42,gravestone@1.10.3,xaeroworldmap@1.39.12,teslacorelib@1.0.18,travelersbackpack@1.0.35,FML@8.0.99.99,thermalexpansion@5.5.7,forgelin@1.8.4,mekanismtools@1.12.2-9.8.3.390,cofhworld@1.4.0,clib@1.0.2.31,xaerominimap_core@1.12.2-1.0,mekanismgenerators@1.12.2-9.8.3.390,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,codechickenlib@3.2.3.358,ironchest@1.12.2-7.0.67.844
+[22:14:27] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[22:14:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:14:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: goldbaker11[/172.28.55.209:53409] logged in with entity id 555 at (-58.48399898597648, 64.0, 1154.3939919053034)
+[22:14:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 joined the game
+[22:14:29] [Server thread/INFO] [Mekanism]: Sent config to 'goldbaker11.'
+[22:14:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: goldbaker11 moved too quickly! -2.37553860599877,0.2712241076924897,9.855990634965337
