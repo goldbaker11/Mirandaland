@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-22 02:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-08-22 02:25:59 +0000"
@@ -365,6 +371,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-08-22 02:32:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-08-22 02:30:45 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2025-08-21 14:48:28 +0000"
@@ -400,7 +418,8 @@
       "marsh": "2025-08-22 02:29:54 +0000",
       "wetland": "2025-08-22 02:25:45 +0000",
       "moor": "2025-08-22 02:17:48 +0000",
-      "dead_swamp": "2025-08-22 02:26:43 +0000"
+      "dead_swamp": "2025-08-22 02:26:43 +0000",
+      "lavender_fields": "2025-08-22 02:31:27 +0000"
     },
     "done": false
   },
@@ -429,6 +448,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-22 02:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-22 02:32:12 +0000"
     },
     "done": true
   },
