@@ -17314,3 +17314,66 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 
 [02:40:57] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 175 times.
 
+[02:41:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:41:47] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 180 times.
+
+[02:41:47] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 180 times.
+
+[02:41:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:42:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:42:37] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 185 times.
+
+[02:42:37] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 185 times.
+
+[02:43:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:43:27] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 190 times.
+
+[02:43:27] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 190 times.
+
+[02:44:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:44:17] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 195 times.
+
+[02:44:17] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 195 times.
+
+[02:44:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:45:07] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 200 times.
+
+[02:45:07] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 200 times.
+
+[02:45:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:45:57] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 205 times.
+
+[02:45:57] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 205 times.
+
+[02:46:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:46:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: goldbaker11 moved too quickly! 10.14031946920008,-0.7500687430237463,-2.4720133398921007
+[02:46:47] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 210 times.
+
+[02:46:47] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 210 times.
+
+[02:47:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:47:37] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 215 times.
+
+[02:47:37] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 215 times.
+
+[02:47:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:48:27] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 220 times.
+
+[02:48:27] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 220 times.
+
+[02:48:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:49:17] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 225 times.
+
+[02:49:17] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 225 times.
+
+[02:49:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:50:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:50:07] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 230 times.
+
+[02:50:07] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 230 times.
+
+[02:50:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:50:57] [Server thread/DEBUG] [FML]: The world 2bc265e2 (world) may have leaked: seen 235 times.
+
+[02:50:57] [Server thread/DEBUG] [FML]: The world 6ec1d1f4 (world) may have leaked: seen 235 times.
+
