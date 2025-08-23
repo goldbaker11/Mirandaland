@@ -1260,3 +1260,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'teslacorelib:machine_case'
 [17:42:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: goldbaker11 moved too quickly! -8.699739077386148,1.6767592750642422,5.128956176520433
 [18:41:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [goldbaker11: Set own game mode to Creative Mode]
 [18:43:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [goldbaker11: Set own game mode to Survival Mode]
+[18:45:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: goldbaker11 lost connection: Disconnected
+[18:45:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: goldbaker11 left the game
